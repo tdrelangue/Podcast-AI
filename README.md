@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/material-outlined/96/cloud.png" width="100" alt="blue-cloud-image" style="filter: invert(32%) sepia(85%) saturate(3188%) hue-rotate(189deg) brightness(98%) contrast(95%);">
+  <img src="https://img.icons8.com/color/microphone" width="100" alt="blue-cloud-image" style="filter: invert(32%) sepia(85%) saturate(3188%) hue-rotate(189deg) brightness(98%) contrast(95%);">
 </p>
 
 <p align="center">
@@ -14,16 +14,18 @@
     <em>Developed with the software and tools below.</em>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=default&logo=TypeScript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/React-61DAFB.svg?style=default&logo=React&logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/Node.js-339933.svg?style=default&logo=Node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-000000.svg?style=default&logo=Express&logoColor=white" alt="Express.js">
-    <img src="https://img.shields.io/badge/GraphQL-E10098.svg?style=default&logo=GraphQL&logoColor=white" alt="GraphQL">
-    <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=default&logo=SQLite&logoColor=white" alt="SQLite">
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=default&logo=Docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=default&logo=Visual%20Studio%20Code&logoColor=white" alt="VS Code">
-</p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white" alt="Python"> 
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?style=flat&logo=Jupyter&logoColor=white" alt="Jupyter Notebook"> 
+  <img src="https://img.shields.io/badge/Alive%20Progress-0A7D8C.svg?style=flat&logo=alive-progress&logoColor=white" alt="Alive Progress"> 
+  <img src="https://img.shields.io/badge/Whisper-2A9DF4.svg?style=flat&logo=whisper&logoColor=white" alt="Whisper"> 
+  <img src="https://img.shields.io/badge/Torch-EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" alt="Torch"> 
+  <img src="https://img.shields.io/badge/Lightning-FF6F00.svg?style=flat&logo=pytorch-lightning&logoColor=white" alt="Lightning"> 
+  <img src="https://img.shields.io/badge/Torchaudio-25A2F1.svg?style=flat&logo=torchaudio&logoColor=white" alt="Torchaudio"> 
+  <img src="https://img.shields.io/badge/Torchvision-05A5D1.svg?style=flat&logo=opencv&logoColor=white" alt="Torchvision"> 
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"> 
+  <img src="https://img.shields.io/badge/PyOpenCL-11A44D.svg?style=flat&logo=opencl&logoColor=white" alt="PyOpenCL"> 
+  <img src="https://img.shields.io/badge/Icecream-4B5B57.svg?style=flat&logo=icecream&logoColor=white" alt="Icecream"> </p>
 
 <br>
 
@@ -39,9 +41,6 @@
   - [Getting Started](#getting-started)
     - [Installation](#installation)
     - [Usage](#usage)
-  - [User Guide](#user-guide)
-    - [Frontend Setup](#frontend-setup)
-    - [Backend Setup](#backend-setup)
   - [Development & Contribution](#development--contribution)
   - [License](#license)
 
@@ -59,12 +58,6 @@ Podcast-AI is an innovative platform that leverages the power of Artificial Inte
 
 - **Automated Transcriptions**: Converts podcast audio into accurate, searchable text.
 - **Content Summarization**: Generates concise episode summaries for easy consumption.
-- **Personalized Recommendations**: Suggests podcasts based on listening habits and preferences.
-- **User-Friendly Interface**: Built with React for a seamless, interactive experience.
-- **Efficient Data Storage**: SQLite for storing user data and preferences.
-- **Scalable Backend**: Utilizes Node.js and Express for a robust and scalable backend.
-- **Docker Support**: Easily deploy and scale the application using Docker.
-
 ---
 
 ## Repository Structure
