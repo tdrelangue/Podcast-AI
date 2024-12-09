@@ -1,0 +1,21 @@
+# Ignore audio files
+*.mp3
+*.wav
+
+# Ignore text files
+*.txt
+
+# Ignore CSV files
+*.csv
+
+# Ignore PDF files
+*.pdf
+
+# Ignore Lightning logs
+/lightning_logs/
+
+# Ignore filelist files
+/filelists/
+
+# Ignore checkpoints
+/checkpoints/
